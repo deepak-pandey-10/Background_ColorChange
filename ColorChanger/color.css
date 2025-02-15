@@ -1,0 +1,35 @@
+.main{
+    text-align: center;
+    justify-items: center;
+    align-content: center;
+    padding-top: 180px;
+}
+.box{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.button{
+    height: 70px;
+    width: 70px;
+    border: 2px solid rgb(51, 50, 50) ;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#black{
+    background-color: black;
+}
+#grey{
+    background-color: grey;
+}
